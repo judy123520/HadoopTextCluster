@@ -1,0 +1,2 @@
+# HadoopTextCluster
+Hadoop TextCluster
